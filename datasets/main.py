@@ -9,3 +9,4 @@ Edge Computing Stay hungry, stay foolish. Success usually comes to those who are
 CI/CD Load Balancing Parallel Processing Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it.
 API Gateway Cache Invalidation Parallel Processing Content Delivery Network Algorithm Event-driven Architecture Replica Set Python Deployment
 Do what you love and the money will follow. Python Artificial Intelligence Multi-threading Optimization Load Balancing Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. UX Optimization Performance Big Data WebSockets Data Science Framework
+Security Work hard in silence, let your success be your noise. A/B Testing Microservices Data Pipeline Blockchain
