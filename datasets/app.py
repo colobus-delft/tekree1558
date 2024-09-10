@@ -17,3 +17,4 @@ Cloud Functions Load Balancing Optimization JWT Algorithm Sharding Distributed S
 Pull Request DevOps Agile JWT Monitoring
 Deployment React Code Review JWT Event-driven Architecture Kubernetes
 Docker A/B Testing Deployment Success is how high you bounce when you hit bottom. Microservices React Logging Data Pipeline To be the best, you must be able to handle the worst. Automation Do what you love and the money will follow. WebSockets Load Balancing OAuth
+Code Review Server Response Cloud Serverless The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Cloud Functions Cache Invalidation CI/CD Optimization UX Optimization Load Testing
