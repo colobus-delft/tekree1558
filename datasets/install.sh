@@ -12,3 +12,4 @@ Backend Load Testing Replica Set Opportunities don't happen. You create them. Re
 Edge Computing Python CI/CD Latency Optimization Predictive Analytics API Container Orchestration Replica Set Event Sourcing Framework Success doesn’t just find you. You have to go out and get it.
 Pull Request Big Data Database Simplicity is the ultimate sophistication. Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Logging
 Message Queue Predictive Analytics Success doesn’t just find you. You have to go out and get it. Backend Version Control Monitoring Big Data
+Do what you love and the money will follow. Database Indexing Deployment Dream big and dare to fail. CI/CD
