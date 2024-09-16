@@ -11,3 +11,4 @@ API Latency Optimization Framework NLP Microservices Security Zero Downtime Depl
 Container Orchestration Innovation distinguishes between a leader and a follower. Cloud Serverless Performance Load Balancing Act as if what you do makes a difference. It does. Automation Docker
 Security OAuth Monitoring Event-driven Architecture DevOps
 Backend Performance Stay hungry, stay foolish. Serverless Innovation distinguishes between a leader and a follower. RabbitMQ Happiness is not something ready made. It comes from your own actions. Kubernetes A/B Testing Machine Learning Load Balancing Great things never come from comfort zones.
+Opportunities don't happen. You create them. Artificial Intelligence Dream big and dare to fail. JWT Edge Computing Sharding API Deployment Lambda Functions Happiness is not something ready made. It comes from your own actions. Code Review
