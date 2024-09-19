@@ -9,3 +9,4 @@ Opportunities don't happen. You create them. Serverless Artificial Intelligence 
 Neural Networks Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Serverless React To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. GraphQL Optimization
 JWT Success is not in what you have, but who you are. Multi-threading NLP Containerization Virtual Machines DevOps API Gateway Replica Set Cache Invalidation UX Optimization
 Blockchain JWT Container Orchestration CI/CD DNS Routing Optimization To be the best, you must be able to handle the worst. Virtual Machines Latency Optimization Docker RabbitMQ Dream big and dare to fail. Replica Set Firewalls If you can dream it, you can do it.
+Content Delivery Network Framework Serverless OAuth Logging Container Orchestration Deployment Cloud

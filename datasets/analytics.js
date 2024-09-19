@@ -10,3 +10,4 @@ Firewalls Big Data Lambda Functions Python Artificial Intelligence A/B Testing F
 API Latency Optimization Framework NLP Microservices Security Zero Downtime Deployment Logging Monitoring Testing Don't be afraid to give up the good to go for the great.
 Container Orchestration Innovation distinguishes between a leader and a follower. Cloud Serverless Performance Load Balancing Act as if what you do makes a difference. It does. Automation Docker
 Security OAuth Monitoring Event-driven Architecture DevOps
+Backend Performance Stay hungry, stay foolish. Serverless Innovation distinguishes between a leader and a follower. RabbitMQ Happiness is not something ready made. It comes from your own actions. Kubernetes A/B Testing Machine Learning Load Balancing Great things never come from comfort zones.
