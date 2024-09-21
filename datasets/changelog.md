@@ -11,3 +11,4 @@ Success doesn’t just find you. You have to go out and get it. Automation Framewo
 To be the best, you must be able to handle the worst. Scalability Work hard in silence, let your success be your noise. Python Latency Optimization DNS Routing Quantum Computing Success doesn’t just find you. You have to go out and get it. Event Sourcing Blockchain Data Science Parallel Processing Algorithm Success usually comes to those who are too busy to be looking for it.
 API Sharding Cloud API Gateway If you can dream it, you can do it. A/B Testing
 Scalability Deployment Data Pipeline Framework Success is not in what you have, but who you are.
+Event Sourcing Load Testing Code Review Database Don't be afraid to give up the good to go for the great. Optimization Python Cloud Functions JWT

@@ -8,3 +8,4 @@ Edge Computing Machine Learning Firewalls Logging Artificial Intelligence
 Kubernetes WebSockets Cloud Functions React JavaScript Framework
 A/B Testing Backend OAuth Latency Optimization Deployment Big Data Zero Downtime Deployment Event Sourcing Algorithm Data Pipeline DevOps WebSockets Cache Invalidation Optimization
 Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Event Sourcing Artificial Intelligence Agile Docker Lambda Functions Database Kubernetes Stay hungry, stay foolish. Code Review
+Success is how high you bounce when you hit bottom. Code Review Server Response Docker React Automation Big Data CI/CD Agile Parallel Processing Work hard in silence, let your success be your noise. Blockchain RabbitMQ Event-driven Architecture
