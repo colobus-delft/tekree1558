@@ -7,3 +7,4 @@ Stay hungry, stay foolish. Serverless DNS Routing Event-driven Architecture Micr
 Pull Request Kafka Distributed Systems Blockchain IoT
 Parallel Processing I find that the harder I work, the more luck I seem to have. Automation Innovation distinguishes between a leader and a follower. Neural Networks JavaScript To be the best, you must be able to handle the worst. Stay hungry, stay foolish. If you can dream it, you can do it. API Multi-threading Monitoring Data Pipeline
 Difficult roads often lead to beautiful destinations. WebSockets Message Queue Virtual Machines GraphQL Do what you love and the money will follow.
+Database Optimization OAuth Cloud Kubernetes IoT RabbitMQ Big Data Security Kafka Load Balancing Multi-threading
