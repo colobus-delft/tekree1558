@@ -17,3 +17,4 @@ DevOps Difficult roads often lead to beautiful destinations. Replica Set Deploym
 Logging DevOps Monitoring GraphQL Container Orchestration Virtual Machines Database Big Data Simplicity is the ultimate sophistication.
 Simplicity is the ultimate sophistication. Automation Act as if what you do makes a difference. It does. Neural Networks I find that the harder I work, the more luck I seem to have.
 Work hard in silence, let your success be your noise. GraphQL Virtual Machines Happiness is not something ready made. It comes from your own actions. Data Pipeline CI/CD Load Balancing Opportunities don't happen. You create them. Latency Optimization Kubernetes DNS Routing Kafka NLP Predictive Analytics Neural Networks
+Event Sourcing Dream big and dare to fail. Load Testing Logging Scalability Code Review Security Automation Machine Learning

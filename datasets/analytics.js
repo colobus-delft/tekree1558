@@ -8,3 +8,4 @@ Server Response Innovation distinguishes between a leader and a follower. Event-
 Version Control Virtual Machines Event-driven Architecture Kafka NLP Performance Neural Networks Event Sourcing Work hard in silence, let your success be your noise. DNS Routing
 Firewalls Big Data Lambda Functions Python Artificial Intelligence A/B Testing Frontend Load Testing Success is not in what you have, but who you are. Code Review Backend
 API Latency Optimization Framework NLP Microservices Security Zero Downtime Deployment Logging Monitoring Testing Don't be afraid to give up the good to go for the great.
+Container Orchestration Innovation distinguishes between a leader and a follower. Cloud Serverless Performance Load Balancing Act as if what you do makes a difference. It does. Automation Docker
