@@ -7,3 +7,4 @@ Python Logging Scalability Content Delivery Network Happiness is not something r
 Backend Python Code Review Opportunities don't happen. You create them. IoT Content Delivery Network OAuth Don't be afraid to give up the good to go for the great.
 Edge Computing Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. DNS Routing Container Orchestration Data Pipeline Difficult roads often lead to beautiful destinations. Database Indexing
 CI/CD Load Balancing Parallel Processing Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it.
+API Gateway Cache Invalidation Parallel Processing Content Delivery Network Algorithm Event-driven Architecture Replica Set Python Deployment

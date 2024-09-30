@@ -8,3 +8,4 @@ A/B Testing Dream big and dare to fail. Python Event-driven Architecture NLP
 A/B Testing Deployment UX Optimization Event-driven Architecture DNS Routing API Version Control Logging Opportunities don't happen. You create them. Neural Networks Difficult roads often lead to beautiful destinations.
 Content Delivery Network Load Testing To be the best, you must be able to handle the worst. Backend GraphQL CI/CD Containerization Framework
 Happiness is not something ready made. It comes from your own actions. WebSockets Innovation distinguishes between a leader and a follower. Data Pipeline Cloud Functions Virtual Machines
+API Gateway Agile Container Orchestration Kafka Data Science Sharding WebSockets Kubernetes Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Algorithm Simplicity is the ultimate sophistication.
