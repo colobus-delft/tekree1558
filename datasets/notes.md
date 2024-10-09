@@ -6,3 +6,4 @@ RabbitMQ Don't be afraid to give up the good to go for the great. Performance Co
 Latency Optimization Big Data If you can dream it, you can do it. Testing Artificial Intelligence API Framework
 Content Delivery Network Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Cloud Functions Framework Success usually comes to those who are too busy to be looking for it. Event Sourcing
 Do what you love and the money will follow. CI/CD API Algorithm IoT UX Optimization Machine Learning Multi-threading
+Success usually comes to those who are too busy to be looking for it. Load Balancing Opportunities don't happen. You create them. Data Pipeline Distributed Systems Algorithm Automation Happiness is not something ready made. It comes from your own actions. Event-driven Architecture React Serverless Sharding Quantum Computing Cache Invalidation

@@ -7,3 +7,4 @@ Load Testing The only way to do great work is to love what you do. Neural Networ
 Edge Computing Machine Learning Firewalls Logging Artificial Intelligence
 Kubernetes WebSockets Cloud Functions React JavaScript Framework
 A/B Testing Backend OAuth Latency Optimization Deployment Big Data Zero Downtime Deployment Event Sourcing Algorithm Data Pipeline DevOps WebSockets Cache Invalidation Optimization
+Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Event Sourcing Artificial Intelligence Agile Docker Lambda Functions Database Kubernetes Stay hungry, stay foolish. Code Review
