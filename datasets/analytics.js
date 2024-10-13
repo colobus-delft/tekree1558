@@ -7,3 +7,4 @@ CI/CD Backend Lambda Functions Database Code Review Dream big and dare to fail. 
 Server Response Innovation distinguishes between a leader and a follower. Event-driven Architecture Big Data Message Queue Logging Deployment
 Version Control Virtual Machines Event-driven Architecture Kafka NLP Performance Neural Networks Event Sourcing Work hard in silence, let your success be your noise. DNS Routing
 Firewalls Big Data Lambda Functions Python Artificial Intelligence A/B Testing Frontend Load Testing Success is not in what you have, but who you are. Code Review Backend
+API Latency Optimization Framework NLP Microservices Security Zero Downtime Deployment Logging Monitoring Testing Don't be afraid to give up the good to go for the great.
