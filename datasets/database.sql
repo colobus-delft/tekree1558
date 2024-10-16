@@ -7,3 +7,4 @@ Work hard in silence, let your success be your noise. The only way to do great w
 Neural Networks Container Orchestration Artificial Intelligence Logging Lambda Functions Automation Serverless DevOps Microservices Quantum Computing Dream big and dare to fail.
 Opportunities don't happen. You create them. Serverless Artificial Intelligence RabbitMQ Event-driven Architecture Docker Database Indexing Kafka Cloud Functions Virtual Machines JWT Microservices Don't be afraid to give up the good to go for the great.
 Neural Networks Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Serverless React To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. GraphQL Optimization
+JWT Success is not in what you have, but who you are. Multi-threading NLP Containerization Virtual Machines DevOps API Gateway Replica Set Cache Invalidation UX Optimization

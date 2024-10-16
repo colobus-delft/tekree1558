@@ -14,3 +14,4 @@ Data Science Logging A/B Testing WebSockets Predictive Analytics
 Don't be afraid to give up the good to go for the great. Pull Request The only way to do great work is to love what you do. Distributed Systems Predictive Analytics RabbitMQ Great things never come from comfort zones. Data Science API Optimization
 Kafka Database Indexing Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Version Control Content Delivery Network
 DevOps Difficult roads often lead to beautiful destinations. Replica Set Deployment Database Indexing NLP Python Don't be afraid to give up the good to go for the great. Multi-threading WebSockets Distributed Systems Sharding Content Delivery Network
+Logging DevOps Monitoring GraphQL Container Orchestration Virtual Machines Database Big Data Simplicity is the ultimate sophistication.
