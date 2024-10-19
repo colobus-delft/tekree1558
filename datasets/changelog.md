@@ -7,3 +7,4 @@ GraphQL I find that the harder I work, the more luck I seem to have. Predictive 
 Don't be afraid to give up the good to go for the great. Code Review NLP OAuth Work hard in silence, let your success be your noise. Quantum Computing Do what you love and the money will follow. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Pull Request RabbitMQ
 Opportunities don't happen. You create them. Machine Learning Event Sourcing Dream big and dare to fail. Docker Blockchain
 Simplicity is the ultimate sophistication. Database Indexing To be the best, you must be able to handle the worst. Do what you love and the money will follow. Agile Difficult roads often lead to beautiful destinations.
+Success doesn’t just find you. You have to go out and get it. Automation Framework Cache Invalidation Simplicity is the ultimate sophistication. DNS Routing Event Sourcing Virtual Machines Testing Deployment IoT
