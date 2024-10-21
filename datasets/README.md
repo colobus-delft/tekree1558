@@ -4,3 +4,4 @@ Quantum Computing Firewalls Parallel Processing Stay hungry, stay foolish. Simpl
 If you can dream it, you can do it. Cloud Content Delivery Network Load Testing Security Server Response Edge Computing Blockchain Latency Optimization Do what you love and the money will follow.
 Data Pipeline Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Microservices Message Queue IoT
 Stay hungry, stay foolish. Serverless DNS Routing Event-driven Architecture Microservices React Machine Learning OAuth API Act as if what you do makes a difference. It does. Sharding
+Pull Request Kafka Distributed Systems Blockchain IoT
