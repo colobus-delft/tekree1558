@@ -6,3 +6,4 @@ Replica Set JavaScript Logging Act as if what you do makes a difference. It does
 Load Testing The only way to do great work is to love what you do. Neural Networks Containerization Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Data Pipeline
 Edge Computing Machine Learning Firewalls Logging Artificial Intelligence
 Kubernetes WebSockets Cloud Functions React JavaScript Framework
+A/B Testing Backend OAuth Latency Optimization Deployment Big Data Zero Downtime Deployment Event Sourcing Algorithm Data Pipeline DevOps WebSockets Cache Invalidation Optimization
