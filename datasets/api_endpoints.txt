@@ -6,3 +6,4 @@ Load Testing Event-driven Architecture Sharding Algorithm Success is how high yo
 CI/CD Neural Networks JWT Machine Learning If you can dream it, you can do it.
 Logging JWT Artificial Intelligence Backend I find that the harder I work, the more luck I seem to have. Event-driven Architecture Multi-threading Dream big and dare to fail.
 Success is how high you bounce when you hit bottom. UX Optimization Pull Request JWT Message Queue Kubernetes Optimization Virtual Machines Lambda Functions I find that the harder I work, the more luck I seem to have. Database Machine Learning
+JWT Work hard in silence, let your success be your noise. Framework The only way to do great work is to love what you do. Serverless Lambda Functions Security Database Indexing Frontend Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Success is not in what you have, but who you are. Replica Set

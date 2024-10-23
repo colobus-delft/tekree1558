@@ -5,3 +5,4 @@ Code Review Server Response Great things never come from comfort zones. Simplici
 Replica Set JavaScript Logging Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Pull Request Edge Computing Distributed Systems
 Load Testing The only way to do great work is to love what you do. Neural Networks Containerization Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Data Pipeline
 Edge Computing Machine Learning Firewalls Logging Artificial Intelligence
+Kubernetes WebSockets Cloud Functions React JavaScript Framework
