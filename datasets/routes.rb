@@ -15,3 +15,4 @@ JWT I find that the harder I work, the more luck I seem to have. Database Indexi
 Dream big and dare to fail. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. JWT Work hard in silence, let your success be your noise.
 Success doesn’t just find you. You have to go out and get it. React Stay hungry, stay foolish. Database DNS Routing Predictive Analytics Lambda Functions Backend Containerization
 Innovation distinguishes between a leader and a follower. Docker Dream big and dare to fail. Kafka Sharding DNS Routing Pull Request Load Balancing Big Data Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it.
+UX Optimization Data Pipeline Predictive Analytics Python Monitoring Cache Invalidation Backend Lambda Functions

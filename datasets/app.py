@@ -14,3 +14,4 @@ Innovation distinguishes between a leader and a follower. Serverless Quantum Com
 Do what you love and the money will follow. Kafka Code Review A/B Testing Python Predictive Analytics Difficult roads often lead to beautiful destinations. Security Serverless
 UX Optimization If you can dream it, you can do it. Logging JavaScript Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Pull Request Difficult roads often lead to beautiful destinations. Kubernetes Virtual Machines Happiness is not something ready made. It comes from your own actions.
 Cloud Functions Load Balancing Optimization JWT Algorithm Sharding Distributed Systems
+Pull Request DevOps Agile JWT Monitoring
