@@ -5,3 +5,4 @@ Python Framework JavaScript GraphQL Simplicity is the ultimate sophistication.
 Success is not in what you have, but who you are. Message Queue Microservices Automation Security Cloud JWT Agile
 Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. WebSockets DevOps Innovation distinguishes between a leader and a follower. Python Optimization
 Neural Networks Container Orchestration Artificial Intelligence Logging Lambda Functions Automation Serverless DevOps Microservices Quantum Computing Dream big and dare to fail.
+Opportunities don't happen. You create them. Serverless Artificial Intelligence RabbitMQ Event-driven Architecture Docker Database Indexing Kafka Cloud Functions Virtual Machines JWT Microservices Don't be afraid to give up the good to go for the great.
