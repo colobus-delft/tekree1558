@@ -9,3 +9,4 @@ Distributed Systems Containerization React Cloud Functions Kafka DNS Routing Suc
 WebSockets UX Optimization IoT Version Control Docker Performance Testing Data Pipeline Content Delivery Network Python Algorithm Cache Invalidation Neural Networks
 Content Delivery Network Success is not in what you have, but who you are. Machine Learning Replica Set RabbitMQ
 Backend Load Testing Replica Set Opportunities don't happen. You create them. React Agile
+Edge Computing Python CI/CD Latency Optimization Predictive Analytics API Container Orchestration Replica Set Event Sourcing Framework Success doesn’t just find you. You have to go out and get it.
