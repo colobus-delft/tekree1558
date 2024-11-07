@@ -10,3 +10,4 @@ API Deployment JWT Database Cache Invalidation Event-driven Architecture Artific
 Framework Zero Downtime Deployment Content Delivery Network Algorithm Great things never come from comfort zones. Event Sourcing Load Testing IoT Performance Success doesn’t just find you. You have to go out and get it. DevOps Frontend Firewalls
 RabbitMQ GraphQL Deployment Serverless Machine Learning Lambda Functions API Gateway
 Kafka React Zero Downtime Deployment Edge Computing Success usually comes to those who are too busy to be looking for it. DevOps Dream big and dare to fail. CI/CD Machine Learning Data Science OAuth Work hard in silence, let your success be your noise. Neural Networks Server Response
+Innovation distinguishes between a leader and a follower. Serverless Quantum Computing Edge Computing Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does.

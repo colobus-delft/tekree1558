@@ -5,3 +5,4 @@ Containerization Multi-threading DNS Routing Latency Optimization Simplicity is 
 Security Dream big and dare to fail. Monitoring Algorithm Multi-threading Edge Computing Predictive Analytics Machine Learning Load Balancing WebSockets Innovation distinguishes between a leader and a follower. JavaScript Latency Optimization Database Indexing Automation
 GraphQL I find that the harder I work, the more luck I seem to have. Predictive Analytics CI/CD Load Balancing
 Don't be afraid to give up the good to go for the great. Code Review NLP OAuth Work hard in silence, let your success be your noise. Quantum Computing Do what you love and the money will follow. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Pull Request RabbitMQ
+Opportunities don't happen. You create them. Machine Learning Event Sourcing Dream big and dare to fail. Docker Blockchain

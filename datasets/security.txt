@@ -4,3 +4,4 @@ Distributed Systems To be the best, you must be able to handle the worst. Diffic
 Cloud Functions Difficult roads often lead to beautiful destinations. Content Delivery Network Big Data Event Sourcing GraphQL Serverless Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. UX Optimization
 Python OAuth Stay hungry, stay foolish. DNS Routing Latency Optimization Big Data Pull Request Performance React
 OAuth Framework Container Orchestration Load Testing Success is not in what you have, but who you are.
+Edge Computing Security Performance Quantum Computing Virtual Machines Server Response Message Queue NLP Multi-threading Logging Python Replica Set
