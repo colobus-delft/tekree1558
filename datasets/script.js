@@ -11,3 +11,4 @@ Stay hungry, stay foolish. Content Delivery Network API Parallel Processing CI/C
 Content Delivery Network Data Pipeline Great things never come from comfort zones. Python Framework Replica Set RabbitMQ Cloud Backend Event-driven Architecture Machine Learning Docker
 Database Kubernetes Cloud Functions Framework Load Testing Deployment Dream big and dare to fail. Cloud To be the best, you must be able to handle the worst. Distributed Systems Success is how high you bounce when you hit bottom. Event-driven Architecture Predictive Analytics Server Response
 Data Science Logging A/B Testing WebSockets Predictive Analytics
+Don't be afraid to give up the good to go for the great. Pull Request The only way to do great work is to love what you do. Distributed Systems Predictive Analytics RabbitMQ Great things never come from comfort zones. Data Science API Optimization
