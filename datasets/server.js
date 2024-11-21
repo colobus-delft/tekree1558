@@ -11,3 +11,4 @@ Work hard in silence, let your success be your noise. Frontend Content Delivery 
 Success usually comes to those who are too busy to be looking for it. Kafka Scalability Lambda Functions Load Testing
 Docker WebSockets Database Algorithm GraphQL Edge Computing Version Control Parallel Processing If you can dream it, you can do it. Logging
 OAuth CI/CD Agile Firewalls Simplicity is the ultimate sophistication. Deployment A/B Testing
+Firewalls Success doesn’t just find you. You have to go out and get it. Neural Networks Server Response API Distributed Systems Replica Set CI/CD Sharding Parallel Processing Docker Happiness is not something ready made. It comes from your own actions. DNS Routing Virtual Machines Load Testing
