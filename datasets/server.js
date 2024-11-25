@@ -10,3 +10,4 @@ WebSockets If you can dream it, you can do it. Security JWT Firewalls UX Optimiz
 Work hard in silence, let your success be your noise. Frontend Content Delivery Network Virtual Machines React Difficult roads often lead to beautiful destinations.
 Success usually comes to those who are too busy to be looking for it. Kafka Scalability Lambda Functions Load Testing
 Docker WebSockets Database Algorithm GraphQL Edge Computing Version Control Parallel Processing If you can dream it, you can do it. Logging
+OAuth CI/CD Agile Firewalls Simplicity is the ultimate sophistication. Deployment A/B Testing
