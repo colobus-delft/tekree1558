@@ -3,3 +3,4 @@ Sharding Zero Downtime Deployment Testing Edge Computing Version Control Success
 RabbitMQ Server Response Edge Computing Virtual Machines Predictive Analytics Event Sourcing Distributed Systems To be the best, you must be able to handle the worst. Data Science Containerization Event-driven Architecture
 Framework Serverless Difficult roads often lead to beautiful destinations. API Gateway Backend RabbitMQ Cache Invalidation UX Optimization Edge Computing Stay hungry, stay foolish. Latency Optimization Opportunities don't happen. You create them. Cloud Functions
 Load Testing Event-driven Architecture Sharding Algorithm Success is how high you bounce when you hit bottom. Parallel Processing Artificial Intelligence Database Cloud NLP Don't be afraid to give up the good to go for the great. Event Sourcing Predictive Analytics
+CI/CD Neural Networks JWT Machine Learning If you can dream it, you can do it.
