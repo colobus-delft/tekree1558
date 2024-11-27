@@ -8,3 +8,4 @@ Containerization Cloud Functions Blockchain Difficult roads often lead to beauti
 Automation Scalability A/B Testing Act as if what you do makes a difference. It does. NLP Opportunities don't happen. You create them. UX Optimization Microservices Latency Optimization Big Data Innovation distinguishes between a leader and a follower. IoT
 API Deployment JWT Database Cache Invalidation Event-driven Architecture Artificial Intelligence IoT Stay hungry, stay foolish. Distributed Systems Cloud Functions A/B Testing Simplicity is the ultimate sophistication. CI/CD Cloud
 Framework Zero Downtime Deployment Content Delivery Network Algorithm Great things never come from comfort zones. Event Sourcing Load Testing IoT Performance Success doesn’t just find you. You have to go out and get it. DevOps Frontend Firewalls
+RabbitMQ GraphQL Deployment Serverless Machine Learning Lambda Functions API Gateway
