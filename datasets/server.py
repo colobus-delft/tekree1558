@@ -7,3 +7,4 @@ Testing Data Pipeline Optimization Artificial Intelligence OAuth Do what you lov
 CI/CD Microservices Event Sourcing Algorithm Automation Distributed Systems
 Container Orchestration Neural Networks Difficult roads often lead to beautiful destinations. Success is how high you bounce when you hit bottom. Logging Latency Optimization Performance Stay hungry, stay foolish. CI/CD Edge Computing UX Optimization Framework Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it.
 Work hard in silence, let your success be your noise. Virtual Machines GraphQL I find that the harder I work, the more luck I seem to have. WebSockets
+JavaScript Load Balancing Framework Performance Predictive Analytics Simplicity is the ultimate sophistication. Cloud Serverless Load Testing Pull Request RabbitMQ Replica Set Success usually comes to those who are too busy to be looking for it. Microservices
