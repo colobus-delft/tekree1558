@@ -4,3 +4,4 @@ Cloud Message Queue Database Indexing Stay hungry, stay foolish. Quantum Computi
 JWT Sharding Data Pipeline GraphQL Server Response Predictive Analytics Containerization Work hard in silence, let your success be your noise. Replica Set Content Delivery Network
 RabbitMQ Don't be afraid to give up the good to go for the great. Performance Code Review Blockchain Stay hungry, stay foolish. JavaScript Deployment Event-driven Architecture Version Control Backend Monitoring
 Latency Optimization Big Data If you can dream it, you can do it. Testing Artificial Intelligence API Framework
+Content Delivery Network Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Cloud Functions Framework Success usually comes to those who are too busy to be looking for it. Event Sourcing
