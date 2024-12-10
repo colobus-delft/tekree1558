@@ -7,3 +7,4 @@ Containerization NLP Framework Content Delivery Network Success usually comes to
 Database Frontend CI/CD Artificial Intelligence Sharding Algorithm Event Sourcing GraphQL NLP DNS Routing Docker Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Virtual Machines
 Machine Learning Frontend Data Pipeline OAuth WebSockets Innovation distinguishes between a leader and a follower. Virtual Machines Framework Message Queue Lambda Functions Zero Downtime Deployment IoT Python
 CI/CD Pull Request Edge Computing Neural Networks Logging If you can dream it, you can do it. Event Sourcing Kafka Kubernetes Serverless Load Balancing Innovation distinguishes between a leader and a follower. Security
+Predictive Analytics RabbitMQ Dream big and dare to fail. Optimization Testing Serverless Monitoring Parallel Processing Scalability API Microservices
