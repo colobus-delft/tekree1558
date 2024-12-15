@@ -10,3 +10,4 @@ Work hard in silence, let your success be your noise. API Zero Downtime Deployme
 Stay hungry, stay foolish. Content Delivery Network API Parallel Processing CI/CD Containerization Machine Learning Cloud Agile The only way to do great work is to love what you do. Serverless Event Sourcing GraphQL Version Control Neural Networks
 Content Delivery Network Data Pipeline Great things never come from comfort zones. Python Framework Replica Set RabbitMQ Cloud Backend Event-driven Architecture Machine Learning Docker
 Database Kubernetes Cloud Functions Framework Load Testing Deployment Dream big and dare to fail. Cloud To be the best, you must be able to handle the worst. Distributed Systems Success is how high you bounce when you hit bottom. Event-driven Architecture Predictive Analytics Server Response
+Data Science Logging A/B Testing WebSockets Predictive Analytics
