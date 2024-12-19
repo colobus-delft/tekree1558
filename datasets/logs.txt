@@ -5,3 +5,4 @@ Content Delivery Network JavaScript Serverless Message Queue Load Balancing The 
 Security Great things never come from comfort zones. Automation Simplicity is the ultimate sophistication. React Code Review Python Do what you love and the money will follow. Cloud Scalability Container Orchestration Data Science CI/CD Innovation distinguishes between a leader and a follower.
 Event Sourcing Load Testing Server Response A/B Testing Content Delivery Network Lambda Functions Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. WebSockets Agile Stay hungry, stay foolish.
 Virtual Machines Content Delivery Network UX Optimization Database DNS Routing
+DNS Routing Simplicity is the ultimate sophistication. Artificial Intelligence Version Control A/B Testing Deployment Content Delivery Network Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst.
