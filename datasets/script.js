@@ -8,3 +8,4 @@ Blockchain Success doesn’t just find you. You have to go out and get it. Databas
 Docker Testing Load Balancing Don't be afraid to give up the good to go for the great. Code Review Artificial Intelligence Security
 Work hard in silence, let your success be your noise. API Zero Downtime Deployment Docker Don't be afraid to give up the good to go for the great. Algorithm Event-driven Architecture Content Delivery Network Testing Backend Data Pipeline Predictive Analytics
 Stay hungry, stay foolish. Content Delivery Network API Parallel Processing CI/CD Containerization Machine Learning Cloud Agile The only way to do great work is to love what you do. Serverless Event Sourcing GraphQL Version Control Neural Networks
+Content Delivery Network Data Pipeline Great things never come from comfort zones. Python Framework Replica Set RabbitMQ Cloud Backend Event-driven Architecture Machine Learning Docker
