@@ -3,3 +3,4 @@ Success is not in what you have, but who you are. Logging Do what you love and t
 A/B Testing Framework Event Sourcing Event-driven Architecture Predictive Analytics
 Content Delivery Network JavaScript Serverless Message Queue Load Balancing The only way to do great work is to love what you do. DevOps DNS Routing Performance Testing Distributed Systems Version Control Artificial Intelligence GraphQL
 Security Great things never come from comfort zones. Automation Simplicity is the ultimate sophistication. React Code Review Python Do what you love and the money will follow. Cloud Scalability Container Orchestration Data Science CI/CD Innovation distinguishes between a leader and a follower.
+Event Sourcing Load Testing Server Response A/B Testing Content Delivery Network Lambda Functions Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. WebSockets Agile Stay hungry, stay foolish.

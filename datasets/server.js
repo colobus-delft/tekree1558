@@ -5,3 +5,4 @@ Do what you love and the money will follow. Artificial Intelligence Logging Mess
 Simplicity is the ultimate sophistication. GraphQL React Code Review Success is not in what you have, but who you are.
 Optimization Containerization Microservices Server Response UX Optimization Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Zero Downtime Deployment Database Indexing Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Kafka Opportunities don't happen. You create them.
 API OAuth If you can dream it, you can do it. Zero Downtime Deployment Opportunities don't happen. You create them. Load Balancing Database Predictive Analytics To be the best, you must be able to handle the worst. DevOps Deployment Cache Invalidation Difficult roads often lead to beautiful destinations.
+To be the best, you must be able to handle the worst. Big Data Logging Performance Deployment
