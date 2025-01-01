@@ -3,3 +3,4 @@ Security Don't be afraid to give up the good to go for the great. Success usuall
 Artificial Intelligence Deployment Latency Optimization UX Optimization IoT
 Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Framework WebSockets Load Balancing Virtual Machines Difficult roads often lead to beautiful destinations. Code Review Blockchain GraphQL
 Happiness is not something ready made. It comes from your own actions. Monitoring Code Review Big Data Cloud NLP Don't be afraid to give up the good to go for the great.
+Containerization NLP Framework Content Delivery Network Success usually comes to those who are too busy to be looking for it. Backend Machine Learning OAuth Container Orchestration IoT Great things never come from comfort zones. Database Indexing Code Review Simplicity is the ultimate sophistication.
