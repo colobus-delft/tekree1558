@@ -4,3 +4,4 @@ Virtual Machines Predictive Analytics Success doesn’t just find you. You have to
 The only way to do great work is to love what you do. React Edge Computing API Event-driven Architecture Distributed Systems Data Pipeline GraphQL Database Indexing Innovation distinguishes between a leader and a follower. Multi-threading Code Review Virtual Machines Agile Performance
 Load Testing Database Event-driven Architecture Container Orchestration Act as if what you do makes a difference. It does. Version Control Predictive Analytics Zero Downtime Deployment Parallel Processing Backend IoT Performance Testing
 Algorithm Firewalls Multi-threading Lambda Functions Replica Set
+Blockchain Success doesn’t just find you. You have to go out and get it. Database Backend Serverless Performance Success is how high you bounce when you hit bottom. Load Testing Python To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations.

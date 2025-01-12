@@ -3,3 +3,4 @@ Latency Optimization Work hard in silence, let your success be your noise. Succe
 Work hard in silence, let your success be your noise. Python Database Serverless JWT
 Do what you love and the money will follow. Artificial Intelligence Logging Message Queue Virtual Machines Success is not in what you have, but who you are. Distributed Systems IoT Serverless Docker Sharding Code Review
 Simplicity is the ultimate sophistication. GraphQL React Code Review Success is not in what you have, but who you are.
+Optimization Containerization Microservices Server Response UX Optimization Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Zero Downtime Deployment Database Indexing Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Kafka Opportunities don't happen. You create them.
