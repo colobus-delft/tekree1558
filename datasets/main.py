@@ -1,0 +1,1 @@
+Event-driven Architecture Opportunities don't happen. You create them. RabbitMQ Framework Do what you love and the money will follow. Machine Learning Kafka Replica Set Zero Downtime Deployment Distributed Systems GraphQL
