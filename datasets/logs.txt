@@ -1,2 +1,3 @@
 Replica Set Pull Request Load Balancing Opportunities don't happen. You create them. CI/CD To be the best, you must be able to handle the worst. UX Optimization
 Success is not in what you have, but who you are. Logging Do what you love and the money will follow. Firewalls Happiness is not something ready made. It comes from your own actions. Virtual Machines GraphQL Algorithm DNS Routing Zero Downtime Deployment Microservices Pull Request Distributed Systems
+A/B Testing Framework Event Sourcing Event-driven Architecture Predictive Analytics
