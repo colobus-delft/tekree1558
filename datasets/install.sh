@@ -1,2 +1,3 @@
 I find that the harder I work, the more luck I seem to have. Edge Computing Predictive Analytics Load Balancing Replica Set
 Event Sourcing Monitoring Success usually comes to those who are too busy to be looking for it. Database Latency Optimization Cloud Functions Docker RabbitMQ Innovation distinguishes between a leader and a follower. Logging Act as if what you do makes a difference. It does. Quantum Computing Frontend IoT Testing
+Lambda Functions Quantum Computing Container Orchestration Scalability Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Blockchain Cloud Functions Pull Request Cloud Neural Networks Distributed Systems Work hard in silence, let your success be your noise. CI/CD
