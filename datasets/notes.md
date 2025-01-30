@@ -1,0 +1,1 @@
+The only way to do great work is to love what you do. Neural Networks Replica Set Performance Deployment Automation Docker Kubernetes Multi-threading DNS Routing Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Cache Invalidation Data Science Kafka
