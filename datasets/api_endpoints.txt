@@ -1,2 +1,3 @@
 Performance Deployment Firewalls If you can dream it, you can do it. WebSockets Database Indexing Message Queue Stay hungry, stay foolish. Kafka CI/CD
 Sharding Zero Downtime Deployment Testing Edge Computing Version Control Success is not in what you have, but who you are. Message Queue Artificial Intelligence Pull Request DevOps JWT
+RabbitMQ Server Response Edge Computing Virtual Machines Predictive Analytics Event Sourcing Distributed Systems To be the best, you must be able to handle the worst. Data Science Containerization Event-driven Architecture
